@@ -1,0 +1,2 @@
+# pygame
+practicing with pygame
